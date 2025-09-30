@@ -1,8 +1,8 @@
 # FILE NAME - compliment_01.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Rina Warren
+# DATE: September 30, 2025
+# BRIEF DESCRIPTION:  Gives user compliemnt if 'yes'
 
 
 
@@ -15,6 +15,10 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
+want_compliment = input('Would you like a compliment? ')
+if(want_compliment == 'yes'):
+    print('You have wonderful eyes.')
+print('Thank you for playing.')
 
 
 
