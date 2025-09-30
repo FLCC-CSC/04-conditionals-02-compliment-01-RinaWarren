@@ -1,8 +1,8 @@
 # FILE NAME - compliment_01.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Rina Warren
+# DATE: September 30, 2025
+# BRIEF DESCRIPTION:  Gives user compliemnt if 'yes'
 
 
 
@@ -15,6 +15,12 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
+want_compliment = input('Would you like a compliment? ')
+
+if(want_compliment == 'yes'):
+    print('You have wonderful eyes.')
+
+print('Thank you for playing.')
 
 
 
@@ -66,12 +72,13 @@ Thank you for playing.
 '''
 
 1. On a scale of 1 to 10 (where 10 is the hardest), how would you rate this lab?
-
+it was about a 1 or 2. The issue was that i got it quickly enough i thought i was wrong
 
 
 
 2. What was the hardest part of this lab?
-
+In this, as in coin-toss, it is the 'getting the words and spaces exactly right so the auto grader doesnt fail you on a 
+techincality.
 
 
 
