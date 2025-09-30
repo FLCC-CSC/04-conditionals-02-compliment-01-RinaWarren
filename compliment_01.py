@@ -72,12 +72,13 @@ Thank you for playing.
 '''
 
 1. On a scale of 1 to 10 (where 10 is the hardest), how would you rate this lab?
-
+it was about a 1 or 2. The issue was that i got it quickly enough i thought i was wrong
 
 
 
 2. What was the hardest part of this lab?
-
+In this, as in coin-toss, it is the 'getting the words and spaces exactly right so the auto grader doesnt fail you on a 
+techincality.
 
 
 
